@@ -29,7 +29,7 @@ public class Conversion_Temperature {
                 case 'C':
 
                    double celsius = temperature;
-                    double fahrenheit = celsius*FAHRENHEIT_TO_CELSIUS_FACTOR ;
+                    double fahrenheit = celsius*FAHRENHEIT_TO_CELSIUS_FACTOR +32;
                     System.out.println(temperature + "correspond à" + fahrenheit + "°F");
                     System.out.println("Voulez-vous faire une autre conversion ? O/N");
 
