@@ -48,10 +48,10 @@ I hope this README provides a clear and informative guide for your temperature c
 
 
 
-you do not
-
-share
 
 
-more_vert
+
+
+
+
 
